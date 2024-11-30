@@ -1,0 +1,26 @@
+.nav-item .nav-link:hover{
+    color: blue;
+    cursor: pointer;
+}
+h1{
+    color: rgb(0, 201, 201);
+}
+.banner-image{
+    width: 300px;
+}
+.carousel-control-next{
+    left: 80%;
+}
+.portfolio-btn{
+    background-color: gray;
+    border-radius: 5px;
+    border: none;
+}
+.container-btn{
+    background-color: gray;
+    border-radius: 5px;
+    border: none;
+}
+.title-left-h2{
+    color: rgb(0, 201, 201);
+}
